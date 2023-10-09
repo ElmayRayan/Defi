@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Courrier New", Courier, monospace;
+	font-size: 16px;
+	color: #4C5454;
+}
+h1{font-size: 22px;
+	padding: 20px;
+	
+}
+h2{font-size: 20px;
+	padding: 50;
+
+}
+
+
+#presentation p {
+	padding: 50px;
+
+}
+#presentation img {
+	max-width: 400px;
+	float: right;
+}
+#presentation ul {
+	padding-left: 100px;
+}
+
+#presentation ol {
+padding-left: 100px;
+}
